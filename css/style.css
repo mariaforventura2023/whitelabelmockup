@@ -1,0 +1,56 @@
+body {
+  color: #777777;
+  margin: 0;
+  font-size: 14px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333333;
+}
+
+h5 {
+  font-size: 12px;
+}
+
+.whitelabelbrand {
+  font-size: 14px;
+}
+
+.main-header {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  border: solid 1px #333333;
+  border-radius: 0;
+  padding: 18px 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #777777;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #a41414;
+}
+
+.side-bar-link {
+  color: rgba(0, 0, 0, 0.6509803922);
+}
+
+.section-spacer {
+  height: 10vh;
+}
+
+.footer-menu {
+  list-style-type: none;
+  padding: 0;
+}
+.footer-menu li > a {
+  font-weight: 300;
+}/*# sourceMappingURL=style.css.map */
